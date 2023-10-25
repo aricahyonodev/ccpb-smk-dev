@@ -1,9 +1,9 @@
 import React from "react";
-import Label1Regular from "../../../components/label/Labe1Regular";
-import Label1Medium from "../../../components/label/Label1Medium";
-import Label2Medium from "../../../components/label/Label2Medium";
-import Paragraf2Medium from "../../../components/paragraf/Paragraf2Medium";
-import Paragraf1Bold from "../../../components/paragraf/Paragraf1Bold";
+import Label1Regular from "../../../components/labels/Labe1Regular";
+import Label1Medium from "../../../components/labels/Label1Medium";
+import Label2Medium from "../../../components/labels/Label2Medium";
+import Paragraf2Medium from "../../../components/paragrafs/Paragraf2Medium";
+import Paragraf1Bold from "../../../components/paragrafs/Paragraf1Bold";
 
 const Card = () => {
   return (
