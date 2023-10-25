@@ -1,6 +1,7 @@
 import HomePage from './pages/home'
 import DetailPage from './pages/detail'
 import RegisterPage from './pages/auth/register'
+import LoginPage from './pages/auth/login'
 function App() {
 
   return (
@@ -8,7 +9,8 @@ function App() {
       <div className='bg-neutral-100 w-full screen-tablet:w-7/12 screen-dekstop:w-5/12'>
         {/* <HomePage/> */}
         {/* <DetailPage/> */}
-        <RegisterPage/>
+        {/* <RegisterPage/> */}
+        <LoginPage/>
       </div>
     </div>
   )
