@@ -31,9 +31,8 @@ const HeaderItemArrowNav = ({img, position}) => {
 const Header = () => {
   return (
     <div className="relative bg-surface-200 pb-24 pt-[70px]">
-
       {/* Navigation */}
-      <TopNavigation/>
+      <TopNavigation />
 
       <div className="bg-surface-500 px-7 relative">
         <div className="relative z-10">
@@ -66,7 +65,7 @@ const Header = () => {
 
         <img
           className="absolute z-0 top-0 right-0 h-full"
-          src="./assets/images/home-header.png"
+          src="./assets/images/buble-home.png"
           alt=""
         />
       </div>
