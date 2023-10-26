@@ -30,7 +30,7 @@ const HeaderItemArrowNav = ({img, position}) => {
 
 const Header = () => {
   return (
-    <div className="relative bg-surface-200 pb-24 pt-[70px]">
+    <div className="relative bg-surface-200 pb-24 pt-[70px] mb-2">
       {/* Navigation */}
       <TopNavigation />
 

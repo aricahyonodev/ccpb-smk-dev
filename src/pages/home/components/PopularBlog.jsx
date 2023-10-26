@@ -16,7 +16,7 @@ const Card = () => {
 
 const PopularBlog = () => {
   return (
-    <div className="px-7 pt-10 bg-surface-200 h-[500px]">
+    <div className="px-7 mt-2 pt-10 bg-surface-200 h-[500px]">
       <div className="flex justify-between items-center">
         <div>
           <h2 className="font-bold text-xl">Popular Blog</h2>
