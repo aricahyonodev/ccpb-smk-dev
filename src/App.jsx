@@ -1,5 +1,6 @@
 import HomePage from './pages/home'
 import DetailPage from './pages/detail'
+import ListDetailPage from './pages/list-detail'
 import RegisterPage from './pages/auth/register'
 import LoginPage from './pages/auth/login'
 function App() {
@@ -10,7 +11,8 @@ function App() {
         {/* <HomePage/> */}
         {/* <DetailPage/> */}
         {/* <RegisterPage/> */}
-        <LoginPage/>
+        {/* <LoginPage/> */}
+        <ListDetailPage/>
       </div>
     </div>
   )
