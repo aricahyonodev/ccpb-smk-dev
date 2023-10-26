@@ -13,3 +13,7 @@
     background: rgba(255, 255, 255, 0.50);
     backdrop-filter: blur(10px);
 }
+
+.bg-transparent {
+    background-color: transparent;
+}
